@@ -1,2 +1,4 @@
-# Client webapp for DNA Services Core Facility
-# begun 2011-09-22T21:09:10
+Software and web applications for the Oregon Health & Science University's DNA Services Core Facility
+Created by Thomas J. Keller, PhD
+
+This repository contains working perl programs, R scripts, and workflows for data analysis of various types.
